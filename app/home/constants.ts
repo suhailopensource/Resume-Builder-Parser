@@ -9,12 +9,12 @@ import { Resume } from "../lib/redux/types";
 
 export const END_HOME_RESUME: Resume = {
   profile: {
-    name: "Kuluru Vineeth",
+    name: "Syed suhail Ahmed",
     summary:
       "Software engineer obsessed with building exceptional products that people love",
     email: "test@gmail.com",
     phone: "123-456-7890",
-    location: "HYD,IND",
+    location: "TN,IND",
     url: "linkedin.com/in/yourusername",
   },
   workExperiences: [
